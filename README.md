@@ -57,3 +57,70 @@ Image Quality Metrics    Edge Preservation
                   |
                   v
           Final Project Results
+## Technologies Used
+
+- Python 3
+- OpenCV
+- NumPy
+- Pandas
+- SciPy
+- scikit-image
+- Matplotlib
+- Jupyter Notebook
+
+## Filters Evaluated
+
+- Mean Filter
+- Gaussian Filter
+- Median Filter
+- Bilateral Filter
+
+## Noise Models
+
+- Gaussian Noise
+- Poisson Noise
+- Salt-and-Pepper Noise
+- Speckle Noise
+
+## Evaluation Metrics
+
+- PSNR
+- SSIM
+- MAE
+- Edge Preservation
+- Runtime
+
+## Project Structure
+
+```text
+Computer-Vision-Noise-Analysis/
+├── data/
+│   ├── original/
+│   ├── noisy/
+│   ├── filtered/
+│   └── objects/
+├── notebooks/
+├── outputs/
+│   ├── metrics/
+│   ├── visualizations/
+│   ├── histograms/
+│   ├── objects/
+│   ├── shape_analysis/
+│   ├── verification/
+│   └── final_analysis/
+├── report/
+│   └── final_report.md
+├── src/
+├── README.md
+├── requirements.txt
+└── .gitignore
+
+
+How to run:
+git clone https://github.com/haarishk1510-pixel/Computer-Vision-Noise-Analysis.git
+cd Computer-Vision-Noise-Analysis
+
+python3 -m venv .venv
+source .venv/bin/activate
+
+pip install -r requirements.txt
