@@ -1,6 +1,6 @@
 File,Size_KB
 outputs/.DS_Store,6.0
-outputs/final_analysis/best_filter_by_noise.csv,0.86
+outputs/final_analysis/best_filter_by_noise.csv,0.87
 outputs/final_analysis/final_consolidated_analysis.png,69.46
 outputs/final_analysis/final_filter_ranking.csv,0.62
 outputs/final_analysis/final_project_summary.txt,2.34
@@ -30,12 +30,12 @@ outputs/histograms/texture_grass_salt_pepper_20percent.png.png,37.36
 outputs/histograms/texture_grass_salt_pepper_5percent.png.png,38.21
 outputs/histograms/texture_grass_speckle.png.png,34.92
 outputs/metrics/best_filter_by_mae.csv,0.26
-outputs/metrics/best_filter_by_psnr.csv,0.74
+outputs/metrics/best_filter_by_psnr.csv,0.75
 outputs/metrics/best_filter_by_ssim.csv,0.27
 outputs/metrics/best_filter_overall.csv,0.87
-outputs/metrics/filter_composite_scores.csv,5.85
+outputs/metrics/filter_composite_scores.csv,5.86
 outputs/metrics/filter_results.csv,17.98
-outputs/metrics/filter_summary.csv,3.23
+outputs/metrics/filter_summary.csv,3.24
 outputs/metrics/overall_filter_performance.csv,0.52
 outputs/objects/01_blurred.png,58.52
 outputs/objects/02_binary_otsu.png,4.48
@@ -55,7 +55,7 @@ outputs/visualizations/01_psnr_comparison.png,70.35
 outputs/visualizations/02_ssim_comparison.png,74.42
 outputs/visualizations/03_mae_comparison.png,73.0
 outputs/visualizations/04_edge_preservation.png,86.23
-outputs/visualizations/05_runtime_comparison.png,68.23
+outputs/visualizations/05_runtime_comparison.png,68.26
 outputs/visualizations/06_noise_comparison.png,143.1
 outputs/visualizations/08_filter_heatmap.png,118.53
 outputs/visualizations/09_final_comparison.png,82.64
