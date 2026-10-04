@@ -1,0 +1,34 @@
+FILTER IMPACT ON OBJECT ANALYSIS
+============================================================
+
+Reference object count: 22
+
+OBJECT-ANALYSIS FILTER RANKING
+------------------------------------------------------------
+1. Bilateral
+   Count Accuracy: 100.00%
+   Descriptor Fidelity: 98.94%
+   Mean Runtime: 0.91 ms
+   Object Impact Score: 99.56
+
+2. Gaussian
+   Count Accuracy: 100.00%
+   Descriptor Fidelity: 98.59%
+   Mean Runtime: 137.97 ms
+   Object Impact Score: 96.17
+
+3. Mean
+   Count Accuracy: 100.00%
+   Descriptor Fidelity: 98.37%
+   Mean Runtime: 259.32 ms
+   Object Impact Score: 93.21
+
+4. Median
+   Count Accuracy: 100.00%
+   Descriptor Fidelity: 99.19%
+   Mean Runtime: 422.40 ms
+   Object Impact Score: 89.68
+
+============================================================
+BEST FILTER FOR OBJECT ANALYSIS: Bilateral
+OBJECT IMPACT SCORE: 99.56
