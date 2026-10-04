@@ -1,0 +1,7 @@
+Noise,Filter,MAE
+gaussian_sigma_10,Gaussian,6.796503186225891
+gaussian_sigma_25,Bilateral,8.903497576713562
+poisson,Gaussian,6.8741375207901
+salt_pepper_20percent,Median,7.316056609153748
+salt_pepper_5percent,Median,6.975329756736755
+speckle,Gaussian,8.902364015579224

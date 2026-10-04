@@ -1,0 +1,7 @@
+Noise,Filter,SSIM
+gaussian_sigma_10,Gaussian,0.8244056841364571
+gaussian_sigma_25,Bilateral,0.7150370664242103
+poisson,Gaussian,0.8197160455855558
+salt_pepper_20percent,Median,0.7702477508181502
+salt_pepper_5percent,Median,0.7791203079396417
+speckle,Bilateral,0.703836991015256
